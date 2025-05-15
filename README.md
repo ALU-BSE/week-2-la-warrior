@@ -3,7 +3,7 @@
 
 ## **Activity Overview**  
 - **Duration:** 30 minutes  
-- **Group Size:** 4-6 learners per group  
+- **Group Size:** 2 learners per group  
 - **Prerequisites:** Basic Python knowledge, Django installed (`pip install django`)  
 - **Tools Needed:** Python, Django, Browser, AI Tool (e.g., ChatGPT, Mockaroo)  
 
